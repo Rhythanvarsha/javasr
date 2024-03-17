@@ -1,0 +1,108 @@
+
+// var a=10;
+// var b=20;
+// function add()
+// {
+//     console.log
+// (a+b)}
+// add()
+
+// var factor="Kamal";
+// var fplayer="Dhoni";
+// var fmovie="Anbe";
+// function favourite()
+// {
+//     console.log("Favourite Actor:", factor)
+//     console.log("Favourite Player:", fplayer)
+//     console.log("Favourite Movie:", fmovie)
+// }
+// favourite()
+
+
+// function area(length,breadth)
+// {
+//     console.log("Area is:" ,length*breadth)
+// }
+// area(2,8)
+
+// function add(a,b){
+//     return a+b
+// }
+// var total=add(4,8)
+// console.log(total) 
+
+
+                 //ifelse
+
+// var rain=false
+// if(rain)
+// {
+//     console.log("taken")
+// }else{
+//     console.log("not")
+// }
+
+// var brush=true
+// if(brush){
+//     console.log("your teeth is clean")
+// }
+// else{
+//     console.log("go brush")
+// }   
+            
+
+                //logical and
+// console.log(true&&true)
+// console.log(false&&true)
+// console.log(true&&false&&false)
+// console.log(false&&false)
+
+
+                 //logical or
+                //  console.log(true||true)
+                //  console.log(false||true)
+                //  console.log(true||false||false)
+                //  console.log(false||false)
+                 
+                //logical not
+// console.log(!true)
+// console.log(!false)
+
+
+                   //if else example
+// var season="summer";
+// if(season=="spring"){
+//     console.log("enjoy the blooming flowers")
+// }
+// else if(season=="summer"){
+//     console.log("Have fun in the sun")
+// }
+// else if(season=="autumn"||season=="fall"){
+//     console.log("admire the leaves")
+// }
+// else if{
+//     console.log("stay warm")
+// }
+
+
+
+             //for loop
+
+for(count=1;count<=100;count++){
+    console.log("kavin")
+}
+for(count=1;count<=100;count++){
+    console.log(count)
+}
+for(count=2;count<=10;count+=2){
+    console.log(count)
+}
+for(count=1;count<=10;count+=2){
+    console.log(count)
+}
+var n=15
+for(count=n;count>0;count--)
+console.log(count)
+
+
+
